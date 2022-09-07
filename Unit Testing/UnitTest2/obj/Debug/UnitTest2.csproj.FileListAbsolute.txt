@@ -1,0 +1,15 @@
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\UnitTest2.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\UnitTest2.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\obj\Debug\UnitTest2.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\obj\Debug\UnitTest2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\obj\Debug\UnitTest2.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\obj\Debug\UnitTest2.dll
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\UnitTest2\obj\Debug\UnitTest2.pdb

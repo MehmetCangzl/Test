@@ -1,0 +1,8 @@
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\mehme\OneDrive\Masaüstü\Unit Testing\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
